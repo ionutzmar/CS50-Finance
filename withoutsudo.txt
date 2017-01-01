@@ -1,0 +1,1 @@
+echo "#includedir /etc/sudoers.d" | sudo tee -a /etc/sudoers
